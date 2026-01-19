@@ -483,11 +483,6 @@ ninja.data = [{
           title: 'Mike Shou',
           description: "National U. of Singapore",
           section: "Projects",handler: () => {
-              window.location.href = "/2025/projects/5_project/";
-            },},{id: "projects-mike-shou",
-          title: 'Mike Shou',
-          description: "National U. of Singapore",
-          section: "Projects",handler: () => {
               window.location.href = "/2025/projects/6_project/";
             },},{
       id: 'light-theme',
